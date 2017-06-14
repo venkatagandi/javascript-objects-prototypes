@@ -19,3 +19,9 @@ This repo has the respective information of it and includes
 [writable properties](writable_properties/WRITABLEPROPERTIES.md)
 
 [ways of enumerating through properties](enumerating_properties/ENUMERATINGPROPERTIES.md)
+
+[ways of configuring properties](configuring_properties/CONFIGURINGPROPERTIES.md)
+
+[GET SET Accessors](get_set_accessors/GETSETACCESSORS.md)
+
+[Prototypes](prototypes/PROTOTYPES.md)
